@@ -1,0 +1,13 @@
+#FLIB Config
+#C Wilson
+#list filetypes associated with the following parameters
+#in a space separated list
+
+#SOUND
+.mp3 .wav .m4a .m4p .ogg .wma
+
+#VIDEO
+.mp4 .wmv .flv .m4v 
+
+#ARCHIVE
+.tar .7z .zip .rar .jar
